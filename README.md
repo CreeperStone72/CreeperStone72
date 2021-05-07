@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm CreeperStone72</h1>
 <h3 align="center">French, developer, dungeon master (in a dice-rolling way), player of games, he/him</h3>
 
-- 💻 I’m currently working on **WeekPlanner**
+- 💻 I’m currently working on [**WeekPlanner**](https://github.com/CreeperStone72/WeekPlanner)
 
 - 📝 I've recently worked on [a Java library for modelling graphs](https://github.com/CreeperStone72/graph)
 
